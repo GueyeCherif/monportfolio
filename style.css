@@ -63,6 +63,14 @@ body{
   font-size: 2rem;
   text-shadow: .1rem .1rem .5rem black;
 }
+#text h4{
+  color: white;
+  font-size: 2rem;
+  text-shadow: .1rem .1rem .5rem black;
+  text-align: center;
+  z-index: 1;
+  text-transform: uppercase;
+}
 /* propos */
 .propos {
   margin-bottom: 0;
